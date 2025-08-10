@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply bg-slate-50 dark:bg-slate-900 text-black dark:text-white ;
+}
+hr{
+  @apply border-slate-300 dark:border-slate-800
+}
+.contain{
+  @apply w-[90%] mx-auto
+}
+.text-main {
+  @apply text-green-600;
+}
+.nav-link{
+  @apply hover:text-green-600 transition-all duration-500;
+
+}
+.active-link {
+  @apply text-green-600;
+}
+.btn{
+  @apply bg-green-600 hover:bg-green-700 transition-all duration-700 text-white rounded-lg px-5 py-2.5
+}
