@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/marwanashraf-naqlasehia/static/css/main.802ffb48.css",
-    "main.js": "/marwanashraf-naqlasehia/static/js/main.dc9b0aa8.js",
+    "main.css": "/marwanashraf-naqlasehia/static/css/main.d3d48e89.css",
+    "main.js": "/marwanashraf-naqlasehia/static/js/main.977cb1ca.js",
     "static/js/453.a80c7efc.chunk.js": "/marwanashraf-naqlasehia/static/js/453.a80c7efc.chunk.js",
     "static/js/38.292baa66.chunk.js": "/marwanashraf-naqlasehia/static/js/38.292baa66.chunk.js",
     "static/media/fa-solid-900.woff2": "/marwanashraf-naqlasehia/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
@@ -11,13 +11,13 @@
     "static/media/freshcart-logo.svg": "/marwanashraf-naqlasehia/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
     "static/media/fa-v4compatibility.woff2": "/marwanashraf-naqlasehia/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
     "index.html": "/marwanashraf-naqlasehia/index.html",
-    "main.802ffb48.css.map": "/marwanashraf-naqlasehia/static/css/main.802ffb48.css.map",
-    "main.dc9b0aa8.js.map": "/marwanashraf-naqlasehia/static/js/main.dc9b0aa8.js.map",
+    "main.d3d48e89.css.map": "/marwanashraf-naqlasehia/static/css/main.d3d48e89.css.map",
+    "main.977cb1ca.js.map": "/marwanashraf-naqlasehia/static/js/main.977cb1ca.js.map",
     "453.a80c7efc.chunk.js.map": "/marwanashraf-naqlasehia/static/js/453.a80c7efc.chunk.js.map",
     "38.292baa66.chunk.js.map": "/marwanashraf-naqlasehia/static/js/38.292baa66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.802ffb48.css",
-    "static/js/main.dc9b0aa8.js"
+    "static/css/main.d3d48e89.css",
+    "static/js/main.977cb1ca.js"
   ]
 }
