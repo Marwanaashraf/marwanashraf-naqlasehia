@@ -7,13 +7,15 @@ export default function Footer() {
   let { t, i18n } = useTranslation();
   return (
     <footer className="bg-slate-100 dark:bg-slate-950 p-5 py-8">
-      <div className="contain grid grid-cols-2 gap-5">
+      <div className="contain grid grid-cols-1 md:grid-cols-2 gap-5">
         <div className="space-y-2">
           <NavLink to="/">
             <img className="w-48" src={logo} alt={logo} />
           </NavLink>
           <p>
-            {t("The website displays products with images, categories, titles, and prices.")}
+            {t(
+              "The website displays products with images, categories, titles, and prices."
+            )}
           </p>
         </div>
         <div className="space-y-2">
