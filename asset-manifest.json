@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marwanashraf-naqlasehia/static/css/main.802ffb48.css",
+    "main.js": "/marwanashraf-naqlasehia/static/js/main.d86c6b24.js",
+    "static/js/453.a80c7efc.chunk.js": "/marwanashraf-naqlasehia/static/js/453.a80c7efc.chunk.js",
+    "static/js/38.292baa66.chunk.js": "/marwanashraf-naqlasehia/static/js/38.292baa66.chunk.js",
+    "static/media/fa-solid-900.woff2": "/marwanashraf-naqlasehia/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
+    "static/media/error.svg": "/marwanashraf-naqlasehia/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-brands-400.woff2": "/marwanashraf-naqlasehia/static/media/fa-brands-400.1f6bad931d92a0a52c45.woff2",
+    "static/media/fa-regular-400.woff2": "/marwanashraf-naqlasehia/static/media/fa-regular-400.5632c43107f4d3fa4806.woff2",
+    "static/media/freshcart-logo.svg": "/marwanashraf-naqlasehia/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/marwanashraf-naqlasehia/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
+    "index.html": "/marwanashraf-naqlasehia/index.html",
+    "main.802ffb48.css.map": "/marwanashraf-naqlasehia/static/css/main.802ffb48.css.map",
+    "main.d86c6b24.js.map": "/marwanashraf-naqlasehia/static/js/main.d86c6b24.js.map",
+    "453.a80c7efc.chunk.js.map": "/marwanashraf-naqlasehia/static/js/453.a80c7efc.chunk.js.map",
+    "38.292baa66.chunk.js.map": "/marwanashraf-naqlasehia/static/js/38.292baa66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.802ffb48.css",
+    "static/js/main.d86c6b24.js"
+  ]
+}
